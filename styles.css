@@ -44,7 +44,7 @@ i {
   border-radius: 10px;
   margin-top: 100px;
   margin-bottom: 100px;
-  margin-left: 400px;
+  margin-left: 250px;
   float: center;
 }
 
@@ -52,8 +52,20 @@ i {
   width: 1000px;
   border-radius: 10px;
   margin-bottom: 100px;
-  margin-left: 400px;
+  margin-left: 250px;
   float: center;
+}
+.First{
+  width: 300px;
+  margin-left: 100px;
+}
+.Second{
+  width: 300px;
+  margin-left: 100px;
+}
+.Third{
+  width: 300px;
+  margin-left: 100px;
 }
 * {box-sizing:border-box}
 
